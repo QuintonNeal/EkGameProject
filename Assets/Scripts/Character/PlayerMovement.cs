@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
 
+    //Test comment for git
+
     public CharacterController2D controller;
 
     public Animator animator;
